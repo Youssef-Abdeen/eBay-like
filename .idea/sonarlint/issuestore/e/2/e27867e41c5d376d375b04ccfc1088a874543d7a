@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‘œšøÿÿÿÿ
+k	java:S116"VRename this field "temp_values" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¸™‰
+?
+java:S1659")Declare "temp_values" on a separate line.(©¸™‰
+e
+java:S18743"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ

@@ -1,0 +1,37 @@
+
+d
+java:S1192K"IDefine a constant instead of duplicating this literal "Accepted" 3 times.(ÇŒªìøÿÿÿÿ
+d
+java:S1192S"IDefine a constant instead of duplicating this literal "Declined" 3 times.(Æñˆªşÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú–ôùÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùùë—
+f	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãšà
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÕù©
+e	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—æ™
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ªİÏùÿÿÿÿ
+f	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔªÔí
+f	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬§™á
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉ€Çøÿÿÿÿ
+g	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º“áğ
+=
+java:S1604H"(Make this anonymous inner class a lambda(†ŠÑ
+>
+java:S1604P"(Make this anonymous inner class a lambda(–ÓÅò
+C
+java:S1604X"(Make this anonymous inner class a lambda(äÅ¤ªøÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda(¬–Ïàıÿÿÿÿ
+C
+java:S1604m"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+?
+java:S1604‘"(Make this anonymous inner class a lambda(Çè†Î
+D
+java:S1604š"(Make this anonymous inner class a lambda(…‘ğñÿÿÿÿÿ
+g
+java:S1301ˆ"KReplace this "switch" statement by "if" statements to increase readability.(§Í‡­ùÿÿÿÿ
+g
+java:S1301±"KReplace this "switch" statement by "if" statements to increase readability.(§Í‡­ùÿÿÿÿ
+d
+java:S1659&"IDeclare "categoryText" and all following declarations on a separate line.(Ú–ôùÿÿÿÿ
+=	java:S131ˆ""Add a default case to this switch.(§Í‡­ùÿÿÿÿ
+=	java:S131±""Add a default case to this switch.(§Í‡­ùÿÿÿÿ

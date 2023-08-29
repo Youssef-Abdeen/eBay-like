@@ -1,0 +1,19 @@
+
+C
+java:S1604("(Make this anonymous inner class a lambda(™™ÈÚÿÿÿÿÿ
+C
+java:S1604S"(Make this anonymous inner class a lambda(˜ßÃœşÿÿÿÿ
+>
+java:S1604m"(Make this anonymous inner class a lambda(²™æê
+?
+java:S1604’"(Make this anonymous inner class a lambda(Õä
+—
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+Q	java:S125="<This block of commented-out lines of code should be removed.(ïç²
+Q	java:S125@"<This block of commented-out lines of code should be removed.(Ÿù¢
+Q	java:S125`"<This block of commented-out lines of code should be removed.(²«‰ª
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+f
+java:S1874§"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ

@@ -1,0 +1,53 @@
+
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+>
+java:S1604x"(Make this anonymous inner class a lambda(Ö›ÿİ
+D
+java:S1604€"(Make this anonymous inner class a lambda(ŞÚâÍùÿÿÿÿ
+?
+java:S1604œ"(Make this anonymous inner class a lambda(¨›†‚
+?
+java:S1604Æ"(Make this anonymous inner class a lambda(öØ¡À
+D
+java:S1604Ñ"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+?
+java:S1604§"(Make this anonymous inner class a lambda(Çè†Î
+D
+java:S1604±"(Make this anonymous inner class a lambda(…‘ğñÿÿÿÿÿ
+x
+java:S1488á"\Immediately return this expression instead of assigning it to the temporary variable "user".(êŠÊŸûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‘œšøÿÿÿÿ
+o	java:S115G"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ñÈØ
+
+java:S1186Ê"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+B
+java:S1659R"'Declare "longitude" on a separate line.(öîƒÆÿÿÿÿÿ
+m
+java:S1450E"WRemove the "descPost" field and declare it as a local variable in the relevant methods.(®¾âŒ
+o
+java:S1450D"YRemove the "uploadPost" field and declare it as a local variable in the relevant methods.(ë­¸¬
+L
+java:S1874J"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾‡¾÷şÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(ß§øÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(¡â´şÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(Ö³¥¢ûÿÿÿÿ
+M
+java:S1874¤"1Remove this use of "getBitmap"; it is deprecated.(¬”ò²ıÿÿÿÿ
+R
+java:S1874°"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+W	java:S125ÿ"<This block of commented-out lines of code should be removed.(Ÿœº­øÿÿÿÿ
+s
+java:S3252†"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Š™„¢ùÿÿÿÿ
+s
+java:S3252‡"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¾±µ©øÿÿÿÿ
+Z
+java:S1117‘"CRename "locationManager" which hides the field declared at line 81.(¦åÃ“
+f
+java:S1874 "JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ÉÙ–€
+W	java:S125¬"<This block of commented-out lines of code should be removed.(‘ûŒşÿÿÿÿ
+B
+java:S1068E",Remove this unused "descPost" private field.(®¾âŒ
+F
+java:S1068G"0Remove this unused "Photo_Chosen" private field.(ñÈØ

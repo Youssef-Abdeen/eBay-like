@@ -1,0 +1,13 @@
+
+E
+java:S3740A"/Provide the parametrized type for this generic.(ç¬¿±
+a
+java:S11928"KDefine a constant instead of duplicating this literal "login_info" 3 times.(ş¿æ
+C
+java:S1604$"(Make this anonymous inner class a lambda(†«¿ºúÿÿÿÿ
+C
+java:S11853"(Remove this method to simply inherit it.(èüù±ùÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(ï¿òûÿÿÿÿ
+e
+java:S1874e"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ

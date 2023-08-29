@@ -1,0 +1,7 @@
+
+r
+java:S1450"WRemove the "dataList" field and declare it as a local variable in the relevant methods.(¯¯øÿÿÿÿ
+{
+java:S1450"eRemove the "favoriteSearchListView" field and declare it as a local variable in the relevant methods.(™ÃŸ­
+R
+java:S1874"<Remove this use of "getSerializableExtra"; it is deprecated.(á›‚‹

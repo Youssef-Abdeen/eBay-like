@@ -1,0 +1,34 @@
+
+‰
+java:S1192I"sDefine a constant instead of duplicating this literal "https://project-f3d47-default-rtdb.firebaseio.com/" 3 times.(í¨åš
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿µöøÿÿÿÿ
+D
+java:S1604“"(Make this anonymous inner class a lambda(¬–Ïàıÿÿÿÿ
+D
+java:S1604™"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+D
+java:S1604¡"(Make this anonymous inner class a lambda(„Äçüÿÿÿÿ
+R	java:S107ƒ"<Method has 9 parameters, which is greater than 7 authorized.(¼×šî
+N
+java:S1854D"8Remove this useless assignment to local variable "card".(ã¹òÜ
+?
+java:S1481D")Remove this unused "card" local variable.(ã¹òÜ
+—
+java:S1186]"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+—
+java:S1186}"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+Q	java:S125j"<This block of commented-out lines of code should be removed.(ïÌ¾£
+V	java:S125y"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+F
+java:S1172ƒ"/Remove this unused method parameter "descText".(¼×šî
+=	java:S131¯""Add a default case to this switch.(€Î›Ğùÿÿÿÿ
+f
+java:S1874Â"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+W	java:S125Ô"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+W	java:S125"<This block of commented-out lines of code should be removed.(Ñ„ÀÒûÿÿÿÿ
+C
+java:S1068'"-Remove this unused "imageFile" private field.(¾æ§
+[
+java:S1144Ë"?Remove this unused private "switchToProductDetailsPage" method.(¿µöøÿÿÿÿ

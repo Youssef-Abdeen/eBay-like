@@ -1,0 +1,29 @@
+
+J
+java:S1066x"/Merge this if statement with the enclosing one.(ž¾£Þüÿÿÿÿ
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ÷«åþÿÿÿÿ
+=
+java:S1604M"(Make this anonymous inner class a lambda(èŸ½
+>
+java:S1604T"(Make this anonymous inner class a lambda(Ò„‡¬
+D
+java:S1604±"(Make this anonymous inner class a lambda(¬–Ïàýÿÿÿÿ
+D
+java:S1604·"(Make this anonymous inner class a lambda(œÁÈÌþÿÿÿÿ
+D
+java:S1604¿"(Make this anonymous inner class a lambda(Çáµþÿÿÿÿ
+h
+java:S1104,"RMake bitmap a static final constant or non-public and provide accessors if needed.(à”£½
+M
+java:S1854a"8Remove this useless assignment to local variable "card".(ÏÁª}
+>
+java:S1481a")Remove this unused "card" local variable.(ÏÁª}
+˜
+java:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+W	java:S125 "<This block of commented-out lines of code should be removed.(òà§Æøÿÿÿÿ
+Q
+java:S1117´":Rename "bitmap" which hides the field declared at line 44.(Œ‹©Ì
+f
+java:S1874Ý"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ
+W	java:S125ä"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ
